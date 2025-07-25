@@ -1,0 +1,11 @@
+[1] Auto-detect hash type (try all)
+[2] Select specific hash type
+
+Enter choice [1/2]: 1
+Enter the hash to crack: 25f9e794323b453885f5181f1b624d0b
+Enter path to wordlist (e.g., passwords.txt): passwords.txt
+
+[*] Trying all supported hash types...
+[*] Trying with: MD5
+[+] Password found: 123456789
+[✓] Hash type: MD5
